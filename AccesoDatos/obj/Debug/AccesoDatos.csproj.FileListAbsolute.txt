@@ -1,0 +1,16 @@
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\bin\Debug\AccesoDatosAAP.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\bin\Debug\AccesoDatosAAP.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\bin\Debug\Entidades.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\bin\Debug\MySql.Data.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\bin\Debug\Entidades.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\obj\Debug\AccesoDatosAAP.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatosAAP\obj\Debug\AccesoDatosAAP.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\obj\Debug\AccesoDatos.pdb

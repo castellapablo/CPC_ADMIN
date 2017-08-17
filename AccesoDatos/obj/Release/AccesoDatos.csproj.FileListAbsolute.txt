@@ -1,0 +1,8 @@
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Release\Entidades.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Release\MySql.Data.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\bin\Release\Entidades.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\AccesoDatos\obj\Release\AccesoDatos.pdb
