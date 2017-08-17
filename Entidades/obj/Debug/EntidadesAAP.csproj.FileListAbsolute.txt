@@ -1,0 +1,4 @@
+C:\Users\pablo\Documents\PABLO\Trabajo\Sitios Web\Argentina Pure Air\V3\ArgentinaPureAirWeb\EntidadesAAP\bin\Debug\EntidadesAAP.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\Sitios Web\Argentina Pure Air\V3\ArgentinaPureAirWeb\EntidadesAAP\bin\Debug\EntidadesAAP.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\Sitios Web\Argentina Pure Air\V3\ArgentinaPureAirWeb\EntidadesAAP\obj\Debug\EntidadesAAP.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\Sitios Web\Argentina Pure Air\V3\ArgentinaPureAirWeb\EntidadesAAP\obj\Debug\EntidadesAAP.pdb

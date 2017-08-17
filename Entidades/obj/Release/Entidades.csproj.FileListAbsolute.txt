@@ -1,0 +1,4 @@
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\Entidades\bin\Release\Entidades.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\Entidades\bin\Release\Entidades.pdb
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\Entidades\obj\Release\Entidades.dll
+C:\Users\pablo\Documents\PABLO\Trabajo\CPC Administración\CPC_V1\CPC_Admin\Entidades\obj\Release\Entidades.pdb
